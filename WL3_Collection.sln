@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyOfSix", "PartyOfSix\PartyOfSix.csproj", "{C6F7DDE6-246C-420A-9047-129CF9576D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeRetrain", "FreeRetrain\FreeRetrain.csproj", "{9130259D-C2D1-4A80-8966-2BD6D880F5B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F7DDE6-246C-420A-9047-129CF9576D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F7DDE6-246C-420A-9047-129CF9576D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F7DDE6-246C-420A-9047-129CF9576D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F7DDE6-246C-420A-9047-129CF9576D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9130259D-C2D1-4A80-8966-2BD6D880F5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9130259D-C2D1-4A80-8966-2BD6D880F5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9130259D-C2D1-4A80-8966-2BD6D880F5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9130259D-C2D1-4A80-8966-2BD6D880F5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C6B5E1-65F9-42BC-886F-D20B09E6A39D}
+	EndGlobalSection
+EndGlobal
